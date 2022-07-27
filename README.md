@@ -26,4 +26,4 @@ m.eval("mesh(Z)");
 
 ## Requires
 - Eigen3
-- Matlab >= 2018a
+- Matlab ≥ 2018a

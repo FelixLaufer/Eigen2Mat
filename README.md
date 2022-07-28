@@ -1,5 +1,5 @@
 # Eigen2Mat
-This is a tiny header only Eigen to Matlab (and vice versa) interface based on the MatlabEngine and MatlabDataArray libraries for easy and fast data exchange of the commonly used (dynamic) Eigen data types Vector and Matrix as well as ```std::vector<ScalarType>```.
+This is a tiny header-only Eigen to Matlab (and vice versa) interface based on the MatlabEngine and MatlabDataArray libraries for easy and fast data exchange of the commonly used (dynamic) Eigen data types Vector and Matrix as well as ```std::vector<ScalarType>```.
 This is particularly useful for rapid prototyping and validation of C++ algorithms against Matlab implementations, plotting & data visualization as well as wrapping and controlling Matlab code from within your C++ app.
 Besides abstracting away the tedious data conversions from and to the shared engine, this interface also exposes some convenience methods such as evaluations, plotting and saving (all) workspace variables to files.
 

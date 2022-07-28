@@ -1,3 +1,5 @@
+// MIT License, Copyright (c) 2022 Felix Laufer
+
 #include <Eigen2Mat/EigenTypes.h>
 #include <Eigen2Mat/MatLab.h>
 

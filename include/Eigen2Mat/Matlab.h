@@ -1,3 +1,5 @@
+// MIT License, Copyright (c) 2022 Felix Laufer
+
 #ifndef _MATLAB_H_
 #define _MATLAB_H_
 

@@ -1,4 +1,4 @@
-// MIT license, Copyright (R) 2022 Felix Laufer
+// MIT License, Copyright (c) 2022 Felix Laufer
 
 #ifndef _EIGEN_TYPES_H_
 #define _EIGEN_TYPES_H_
